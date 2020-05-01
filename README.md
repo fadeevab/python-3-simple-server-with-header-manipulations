@@ -1,6 +1,4 @@
-# python-3-simple-server
-
-Simple Python 3 server to experiment with header manipulations,
+Simple Python 3 server with header manipulations,
 e.g. `Set-Cookie`, `Origin`, and `Host` in the current example.
 
 ## How-To Use
